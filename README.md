@@ -64,11 +64,9 @@ The UI will be available at http://localhost:5173
 
 🔌 API Endpoints
 | Method | Endpoint | Description |
-| :--- | :--- | :--- |
 | `GET` | `/api/users` | Fetch all registered users from the database |
 | `POST` | `/api/users` | Create a new user record |
 | `GET` | `/api/users/{id}` | Retrieve specific user details by ID |
 | `PUT` | `/api/users/{id}` | Update existing user information |
 | `DELETE` | `/api/users/{id}` | Remove a user from the system |
 
-Developed by Shivam singh — Aspiring Java Developer.
